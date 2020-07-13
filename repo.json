@@ -1,0 +1,14 @@
+{
+  "name": "Main extensions repository",
+  "id": "main",
+  "extensions": [
+    {
+      "name": "GogoAnime",
+      "version": "1.0.0",
+      "version_code": 1,
+      "icon": "https://raw.githubusercontent.com/uvnode/typhoon-main-extensions/repo/icon/gogoanime.png",
+      "package": "com.uvnode.typhoon.sources.gogoanime",
+      "url": "https://raw.githubusercontent.com/uvnode/typhoon-main-extensions/repo/apk/gogoanime-1.0.0.apk"
+    }
+  ]
+}
